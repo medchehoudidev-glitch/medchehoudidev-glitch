@@ -50,7 +50,7 @@ I am passionate about creating interactive experiences and developing technical 
 🥇 **Global Game Jam Tunisia Winner**  
 **Team:** PixelPerfect
 
-🌱 **SDG Game Competition Participant**  
+🌱 **SDG Game Competition Winner**  
 Created an educational game concept focused on Sustainable Development Goals (SDGs).
 
 -------------------------------------------------------------------------------------------------------------
