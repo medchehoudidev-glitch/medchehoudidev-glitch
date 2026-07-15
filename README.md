@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chahden
 
-### 💻 Computer Science Background | 🎮 Game Development Student | Software Developer Enthusiast
+### 💻 Computer Science Background | 🎮 Game Development Student | Software Developer متحمس
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUyYmN0eDdtMzQ3OHowZ3l1bmRkZng5a3B0ejB6YTh4aGxiZmJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="350"/>
 
