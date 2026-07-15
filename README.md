@@ -4,7 +4,11 @@
 
 ### 💻 Computer Science Background | 🎮 Game Development Student | Software Developer Enthusiast
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUyYmN0eDdtMzQ3OHowZ3l1bmRkZng5a3B0ejB6YTh4aGxiZmJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUyYmN0eDdtMzQ3OHowZ3l1bmRkZng5a3B0ejB6YTh4aGxiZmJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="350"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=medchehoudi-glitch&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
 
@@ -80,6 +84,15 @@ Created an educational game concept focused on Sustainable Development Goals (SD
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Unity development
+- Artificial Intelligence
+- Game AI architectures
+- Software engineering practices
 
 ---
 
