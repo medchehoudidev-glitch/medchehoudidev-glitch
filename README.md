@@ -24,6 +24,14 @@ Focused on:
 - Application development projects
 - Programming experiments
 
+
+## 🏆 Achievements
+
+🥇 **Global Game Jam Tunisia Winner**  
+Team: PixelPerfect
+🌱 **SDG Game Competition Participant**  
+Created an educational game concept focused on sustainable development goals (SDGs).
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming
@@ -51,3 +59,15 @@ Focused on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Medamine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medchehoudi-glitch&show_icons=true&theme=tokyonight)
+
+## 📫 Connect With Me
+
+📧 Email: medchehoudidev@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/chahden
+
