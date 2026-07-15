@@ -1,16 +1,31 @@
-## Hi there 👋
+ Hi, I'm Medamine Chehoudi 👋
 
-<!--
-**medchehoudidev-glitch/medchehoudidev-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | Unity & C# Programmer
 
-Here are some ideas to get you started:
+I am a passionate game developer focused on creating gameplay systems, mechanics, and interactive experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+
+- 🥇 Global Game Jam 2025 Winner - Bubble Escape
+- 🌱 3rd Place in SDG Competition - Hero of Nature
+- 🌍 Global Game Jam Internship Program Participant
+
+## 💻 Skills
+
+- Unity
+- C#
+- Gameplay Programming
+- AI Systems
+- Git & GitHub
+
+## 🎮 Projects
+
+### Bubble Escape 🫧
+Winner game of Global Game Jam 2025.
+
+### Hero of Nature 🌱
+Educational game focused on environmental awareness and SDGs.
+
+## 📫 Contact
+
+Email: medchehoudidev@gmail.com
