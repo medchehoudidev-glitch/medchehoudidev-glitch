@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Medamine Chehoudi
+# 👋 Hi, I'm Chahden
 
 ### 💻 Computer Science Background | 🎮 Game Development Student | Software Developer Enthusiast
 
