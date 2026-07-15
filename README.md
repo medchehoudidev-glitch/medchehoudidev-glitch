@@ -1,53 +1,59 @@
 <div align="center">
-👋 Hi, I'm Chahden
 
-💻 Computer Science Background  |  🎮 Game Development Student  |  🌐 Software Developer
+# 👋 Hi, I'm Medamine Chehoudi
+
+### 💻 Computer Science Background | 🎮 Game Development Student | Software Developer Enthusiast
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUyYmN0eDdtMzQ3OHowZ3l1bmRkZng5a3B0ejB6YTh4aGxiZmJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="350"/>
+
 <br>
+
 <img src="https://komarev.com/ghpvc/?username=medchehoudi-glitch&style=for-the-badge&color=blue" alt="Profile Views"/>
+
 </div>
 
-🧑‍💻 About Me
-
-I'm a Game Development student at ISAMM Manouba with a solid Computer Science foundation underneath it. I like taking ideas that only exist in my head — a mechanic, a system, a weird little AI behavior — and making them run.
-
-Half my brain thinks in game loops and shaders, the other half thinks in algorithms and architecture. I build in both worlds and let them borrow from each other.
-
-🎯 What I'm focused on
+-------------------------------------------------------------------------------------------------------------
 
 
-🎮 Interactive experiences and game systems
-💻 Software engineering and clean, working code
-🤖 AI systems and intelligent, believable behavior
-🎨 Where technical execution meets creative direction
+## 🧑‍💻 About Me
+
+I am a **Game Development student at ISAMM Manouba** with a strong foundation in **Computer Science**.
+
+I am passionate about creating interactive experiences and developing technical solutions through code. My background allows me to combine creativity and programming to work on both **game systems** and **software projects**.
+
+### 🎯 Focused on:
+- 🎮 Game development and interactive experiences
+- 💻 Software engineering and programming
+- 🤖 AI systems and intelligent behaviors
+
+-------------------------------------------------------------------------------------------------------------
+
+# 🚀 Projects
+
+## 🎮 Game Development
+
+- 🌑 **The Seven Human Sins**
+- 🌱 **Héros de la Nature**
+- 🫧 **Bubble Escape**
+
+## 💻 Computer Science Projects
+
+- Algorithms & Data Structures projects
+- Application development projects
+- Programming experiments
+
+-------------------------------------------------------------------------------------------------------------
 
 
+# 🏆 Achievements
 
-🚀 Projects
+🥇 **Global Game Jam Tunisia Winner**  
+**Team:** PixelPerfect
 
-Full details, screenshots, and source live inside each repo — here's the short version.
+🌱 **SDG Game Competition Participant**  
+Created an educational game concept focused on Sustainable Development Goals (SDGs).
 
-🎮 Game Development
-
-ProjectWhat it is🌑 The Seven Human SinsA narrative-driven game exploring human flaws through gameplay🌱 Héros de la NatureAn eco-conscious game built around environmental awareness🫧 Bubble EscapeA physics-based puzzle/arcade game
-
-💻 Computer Science
-
-
-Algorithms & data structures projects
-Application development projects
-Programming experiments & prototypes
-
-
-
-🏆 Achievements
-
-🥇 Global Game Jam Tunisia — Winner
-Team PixelPerfect
-
-🥉 SDG Game Competition — 3rd Place
-Designed and built an educational game concept focused on the Sustainable Development Goals
+-------------------------------------------------------------------------------------------------------------
 
 # 🛠️ Technologies & Tools
 
@@ -81,7 +87,7 @@ Designed and built an educational game concept focused on the Sustainable Develo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+-------------------------------------------------------------------------------------------------------------
 
 # 📚 Currently Learning
 
@@ -90,7 +96,7 @@ Designed and built an educational game concept focused on the Sustainable Develo
 - Game AI architectures
 - Software engineering practices
 
----
+-------------------------------------------------------------------------------------------------------------
 
 # 📫 Connect With Me
 
