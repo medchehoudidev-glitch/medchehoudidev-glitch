@@ -2,6 +2,7 @@
 
 💻 Computer Science Student | Software Developer | Game Development متحمس
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUyYmN0eDdtMzQ3OHowZ3l1bmRkZng5a3B0ejB6YTh4aGxiZmJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="800"/>
 I am a Game Development student at **ISAMM Manouba** with a strong foundation in Computer Science.
 I am passionate about creating interactive experiences and developing technical solutions through code. My interests combine creativity and programming, allowing me to work on both game systems and software projects.
 
@@ -61,9 +62,6 @@ Created an educational game concept focused on sustainable development goals (SD
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Medamine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medchehoudi-glitch&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect With Me
 
